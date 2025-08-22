@@ -1,5 +1,7 @@
 AI-Driven Resume Analyzer
+
 An AI-powered web application that analyzes resumes and provides insights on skills, keywords, and job role matching.
+
 It helps candidates improve their resumes by identifying strengths, missing skills, and providing ATS (Applicant Tracking System) compatibility checks.
 
 🚀 Features
